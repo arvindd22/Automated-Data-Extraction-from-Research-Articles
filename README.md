@@ -16,7 +16,10 @@ Achieved an F1 score of 0.86 for the trained classification model.
 
 ### Research Application: 
 Successfully classified over 5000+ Shape Memory Alloy articles, identifying 580 highly relevant articles containing Stress-Strain graphs.
-Key Technologies: Python, Machine Learning, Web Scraping, Image Processing, YOLOv8, Pytesseract
+
+#### Key Technologies: 
+Python, Machine Learning, Web Scraping, Image Processing, YOLOv8, Pytesseract
+
 
 
 
