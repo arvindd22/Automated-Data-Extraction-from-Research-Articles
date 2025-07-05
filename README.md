@@ -1,5 +1,5 @@
-#  Scientific Literature Analysis Project
-#### Summer Research Project | May 2024 - July 2024
+#  Automated Data Extraction from Research Articles 
+#### Summer Project | May 2024 - July 2024
 
 This project aimed to streamline research analysis by developing a robust system for:
 
